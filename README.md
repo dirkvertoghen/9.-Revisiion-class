@@ -1,13 +1,14 @@
 # 9.-Revision-class
 
 Question 1. The following financial information relates to an investment project (in present value, $):
-•	Sales revenue:		50 025
-•	Variable costs:		25 475
-•	Contribution:		24 550
-•	Fixed costs:		18 250
-•	Operating income:	6 300
-•	Initial investment:	5 000
-•	Net present value:	1 300
+       
+         •	Sales revenue:		50 025
+         •	Variable costs:		25 475
+         •	Contribution:		24 550
+         •	Fixed costs:		18 250
+         •	Operating income:	6 300
+         •	Initial investment:	5 000
+         •	Net present value:	1 300
 Calculate the sensitivity of the NPV of the investment project to a change in the a) sales volume; b) amount of the initial investment. Provide for necessary calculations.
 
 Question 2. A production company is assessing a proposal to acquire a machine. A net present value appraisal of the proposal has been carried out and the investment would have a large positive net present value. A decision has therefore been made to go ahead with the project. However, a decision has not yet been made about how the acquisition of the machine should be financed. 
