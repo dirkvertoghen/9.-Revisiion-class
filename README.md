@@ -93,6 +93,7 @@ Servicing and repair costs are on average $2 500 in the first year, and this cos
 Other relevant information: 
       Current ratio of FLG Co is 1,4;
       Cost of long-term finance of FLG Co is 11%.
+
 **(1) Calculate the size of the overdraft of FLG Co, the net working capital of the company and the total cost of financing its current assets.**
 
 FLG Co wishes to minimise its inventory costs. Annual demand for a raw material costing $12 per unit is 60 000 units per year. Inventory management costs for this raw material are as follows: 
